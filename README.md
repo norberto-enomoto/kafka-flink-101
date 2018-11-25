@@ -55,7 +55,8 @@ You should see messages printed in the Consumer console.
 
 You can run this application directly in a Flink cluster.
 
-## Trabalho IoT015 - Norberto Hideaki Enomoto e Carmem Pereira
+## Trabalho de IoT015 - Big Data e Analytics em IoT / Norberto Hideaki Enomoto e Carmem Pereira
+## Professor Daniel Mazzer
 
 ## Build and Run the Application
 
@@ -66,7 +67,11 @@ $ mvn clean package
 ```
 
 And run the Gear Change java class:
+```
 mvn exec:java -Dexec.mainClass=com.inatel.demos.GearChange
+```
 or
+```
 run-flinkgerchange.sh
+```
 
