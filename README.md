@@ -74,6 +74,8 @@ mvn exec:java -Dexec.mainClass=com.inatel.demos.GearChange
 ```
 output of execution
 ```
+https://github.com/norberto-enomoto/kafka-flink-101/blob/master/output/execution_gearchange.png
+
 
 
 
