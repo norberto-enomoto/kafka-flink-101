@@ -1,4 +1,5 @@
-/* Trabalho de IoT015 - Big Data e Analytics em IoT
+/* Turma: 152 – Pós Graduação em Internet das Coisas (IoT)
+ * Trabalho de IoT015 - Big Data e Analytics em IoT
  * Alunos: Carmem Pereira e Norberto Hideaki Enomoto
  * Professor: Daniel Mazzer
  * 
