@@ -70,8 +70,10 @@ And run the Gear Change java class:
 ```
 mvn exec:java -Dexec.mainClass=com.inatel.demos.GearChange
 ```
-or
+
 ```
-run-flinkgerchange.sh
+output of execution
 ```
+
+
 
